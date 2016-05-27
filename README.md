@@ -1,8 +1,8 @@
 MultiProject Silhouette Slick Seed Template
 ===========================================
 
-This is a fork a the fork of the official Silhouette Seed project. 
-This fork shows how to work with Silhouette & Slick as a subproject in a multiproject SBT project.
+This is a fork of [a fork](https://github.com/sbrunk/play-silhouette-slick-seed) of the official [Silhouette Seed project](https://github.com/mohiva/play-silhouette-seed). 
+This fork is an awkward example of how to work with Silhouette & Slick as a subproject in a multiproject SBT project.
 If you want to have a first look at Silhouette, I suggest you have a look at the [official project](https://github.com/mohiva/play-silhouette-seed).
 
 The Silhouette Seed project is an Activator template which shows how [Silhouette](https://github.com/mohiva/play-silhouette) can be implemented in a Play Framework application. 
